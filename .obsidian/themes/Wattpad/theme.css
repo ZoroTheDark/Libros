@@ -1,0 +1,138 @@
+.theme-dark {
+  --background-primary: #1a1a1a; /* Fondo principal */
+  --background-primary-alt: #222222; /* Fondo secundario (como barras de desplazamiento) */
+  --background-secondary: #121212; /* Fondo de áreas como el lateral */
+  --background-modifier-border: #333333; /* Bordes */
+  --text-normal: #e0e0e0; /* Texto principal */
+  --text-muted: #9e9e9e; /* Texto secundario/menos importante */
+  --text-faint: #666666; /* Texto muy tenue */
+  --text-accent: #ff9500; /* Color de acento (puedes cambiarlo si Wattpad usa otro) */
+  --text-on-accent: #ffffff;
+  --text-selection: rgba(255, 85, 0, 0.25); /* Color de selección de texto */
+  --interactive-normal: #2a2a2a;
+  --interactive-hover: #3a3a3a;
+  --interactive-accent: #ff9500;
+  --interactive-accent-hover: #ffaa33;
+  --scrollbar-bg: var(--background-primary-alt); /* Fondo del scrollbar */
+  --scrollbar-thumb-bg: var(--background-modifier-border); /* Color del thumb del scrollbar */
+  --h1-color: var(--text-normal);
+  --h2-color: var(--text-normal);
+  --h3-color: var(--text-normal);
+  --h4-color: var(--text-normal);
+  --h5-color: var(--text-normal);
+  --h6-color: var(--text-normal);
+  --hr-color: var(--background-modifier-border);
+  --embed-block-shadow: 0 1px 3px var(--background-modifier-box-shadow);
+  --blockquote-border-color: var(--text-accent);
+  --code-background: var(--background-primary-alt);
+  --code-normal: var(--text-normal);
+  --code-comment: var(--text-muted);
+  --code-tag: var(--text-accent);
+  --code-property: var(--text-normal);
+  --code-punctuation: var(--text-normal);
+  --code-string: var(--text-normal);
+  --code-number: var(--text-normal);
+  --code-function: var(--text-normal);
+  --code-keyword: var(--text-normal);
+  --code-boolean: var(--text-normal);
+  --code-operator: var(--text-normal);
+  --code-variable: var(--text-normal);
+  --code-symbol: var(--text-normal);
+  --code-delimiter: var(--text-normal);
+  --link-color: var(--text-accent);
+  --link-color-hover: var(--interactive-accent-hover);
+  --tag-color: var(--text-accent);
+  --tag-color-hover: var(--interactive-accent-hover);
+  --checkbox-color: var(--text-accent);
+  --checkbox-color-hover: var(--interactive-accent-hover);
+  --checkbox-marker-color: var(--background-primary);
+  --checkbox-border-color: var(--text-accent);
+  --text-highlight-bg: rgba(255, 149, 0, 0.2); /* Color de resaltado */
+  --text-highlight-bg-active: rgba(255, 149, 0, 0.4);
+  --text-error: #ff4d4d;
+  --text-success: #00cc66;
+  --prompt-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+  --modal-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+  --graph-line: var(--text-faint);
+  --graph-node: var(--text-normal);
+  --graph-node-tag: var(--text-accent);
+  --graph-node-attachment: var(--text-success);
+  --table-background: var(--background-primary-alt);
+  --table-header-background: var(--background-primary);
+  --table-header-color: var(--text-normal);
+  --table-border-color: var(--background-modifier-border);
+  --table-row-even-background: var(--background-primary-alt);
+  --table-row-odd-background: var(--background-primary);
+  --table-row-background-hover: var(--interactive-normal);
+  --workspace-leaf-resize-handle: var(--background-modifier-border);
+  --nav-item-color: var(--text-normal);
+  --nav-item-color-hover: var(--text-normal);
+  --nav-item-color-active: var(--text-normal);
+  --nav-item-background-active: var(--interactive-normal);
+  --nav-item-background-hover: var(--interactive-hover);
+  --status-bar-background: var(--background-secondary);
+  --status-bar-color: var(--text-normal);
+  --button-background: var(--interactive-normal);
+  --button-background-hover: var(--interactive-hover);
+  --button-text: var(--text-normal);
+  --button-text-hover: var(--text-normal);
+  --calendar-background: var(--background-primary);
+  --calendar-text: var(--text-normal);
+  --calendar-today-background: var(--interactive-normal);
+  --calendar-day-hover: var(--interactive-hover);
+  --calendar-weekday-color: var(--text-muted);
+  --calendar-weekday-background: var(--background-primary-alt);
+  --line-height-tight: 1.3;
+  --line-height-normal: 1.5;
+  --line-height-loose: 1.7;
+}
+
+/* Aplicar Times New Roman y tamaño de fuente más pequeño a áreas clave */
+.theme-dark,
+.theme-dark .markdown-source-view,
+.theme-dark .markdown-preview-view,
+.theme-dark .cm-s-obsidian,
+.theme-dark .cm-line,
+.theme-dark .mod-single-child .cm-line,
+.theme-dark .markdown-source-view.mod-cm6 .cm-line {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 14px; /* Ajusta este valor para hacerlo más pequeño o más grande */
+  /* line-height: var(--line-height-normal); /* Puedes ajustar la altura de línea también si es necesario */ */
+}
+
+/* Ajustar el tamaño de fuente para encabezados si es necesario */
+.theme-dark h1,
+.theme-dark h2,
+.theme-dark h3,
+.theme-dark h4,
+.theme-dark h5,
+.theme-dark h6 {
+  font-family: "Times New Roman", Times, serif; /* Asegura la fuente en encabezados */
+  /* Puedes dejar que Obsidian maneje los tamaños relativos o ajustarlos aquí */
+}
+
+/* Ajustar el tamaño de fuente para el área de vista previa y edición si es diferente */
+.theme-dark .markdown-preview-view {
+  font-size: 14px; /* Asegura tamaño consistente en vista previa */
+}
+
+/* Ajustar el tamaño de fuente en bloques de código si es necesario */
+.theme-dark .cm-s-obsidian .HyperMD-codeblock {
+  font-size: 13px; /* Un poco más pequeño para código */
+}
+
+/* Ajustar el tamaño de fuente en el panel lateral */
+.theme-dark .workspace-leaf-content .view-content .nav-file-title,
+.theme-dark .workspace-leaf-content .view-content .nav-folder-title {
+  font-size: 13px; /* Tamaño más pequeño para la navegación lateral */
+}
+
+/* Ajustar el tamaño de fuente en el editor si estás usando CM5 */
+.theme-dark .CodeMirror {
+  font-size: 14px;
+}
+
+/* Ajustar el tamaño de fuente en el editor si estás usando CM6 */
+.theme-dark .cm-editor .cm-scroller {
+  font-size: 14px;
+}

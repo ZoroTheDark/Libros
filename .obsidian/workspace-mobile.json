@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "One-shot/Petalos y rosas.md",
-                "mode": "preview",
+                "file": "One-Shots/Pétalos y rosas (Meowscarada x TN).md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Petalos y rosas"
+              "title": "Pétalos y rosas (Meowscarada x TN)"
             }
           }
         ]
@@ -98,14 +98,14 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "One-shot/Petalos y rosas.md",
+            "file": "One-Shots/Pétalos y rosas (Meowscarada x TN).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
             "searchQuery": "",
             "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+            "unlinkedCollapsed": false
           },
           "icon": "links-coming-in",
           "title": "Enlaces entrantes"
@@ -117,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "One-shot/Petalos y rosas.md",
+            "file": "One-Shots/Pétalos y rosas (Meowscarada x TN).md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -131,7 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "One-shot/Petalos y rosas.md",
+            "file": "One-Shots/Pétalos y rosas (Meowscarada x TN).md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -141,7 +141,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,7 +157,9 @@
   "active": "25c807d501772dd3",
   "lastOpenFiles": [
     "README.md",
-    "One-shot/Petalos y rosas.md",
+    "One-shot/Pétalos y rosas (Meowscarada x TN).md",
+    "One-Shots/Pétalos y rosas (Meowscarada x TN).md",
+    "One-Shots",
     "One-shot"
   ]
 }
