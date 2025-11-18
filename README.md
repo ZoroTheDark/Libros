@@ -3,14 +3,5 @@
 # Sagas
 + ## Nephalem
 
-## 📜 Licencia
-
-Este trabajo está bajo una **Licencia Creative Commons Atribución-NoComercial 4.0 Internacional**.
-
-**Qué puedes hacer:**
-- Leer, compartir y crear adaptaciones no comerciales
-- Traducir, modificar, corregir, etc.
-- Siempre dando crédito al autor
-
-**Para usos comerciales** (series, películas, audiolibros comerciales):
-Consulta el archivo [DERECHOS-COMERCIALES.md](DERECHOS-COMERCIALES.md)
+## 📜 Aviso Legal
+Este es un fanfiction no oficial de Pokémon. Lee el [AVISO-LEGAL.md](LICENSE.md) para más información.
