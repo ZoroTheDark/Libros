@@ -1,4 +1,7 @@
 {
   "cssTheme": "Wattpad",
-  "theme": "system"
+  "theme": "obsidian",
+  "interfaceFontFamily": "Times New Roman",
+  "textFontFamily": "Times New Roman",
+  "monospaceFontFamily": "Courier New"
 }

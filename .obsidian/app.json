@@ -28,5 +28,6 @@
     "editor:insert-footnote",
     "insert-current-time"
   ],
-  "showLineNumber": true
+  "showLineNumber": true,
+  "promptDelete": false
 }

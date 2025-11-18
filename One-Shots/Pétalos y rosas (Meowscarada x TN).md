@@ -1,3 +1,6 @@
+---
+banner: "![[Meowscarada X TN_1.png]]"
+---
 #  <div align="center" >[Prologo]</div>
 <br>
 <br>
@@ -148,9 +151,38 @@ En ese instante lo tome del brazo y lo lleve hacia baño de la habitación. Ya s
 
 Tuve que decirle lo grabe que es la situacion, si el resto del mundo se entera de esto se hara un completo alboroto. Tenemos que encontrar a todo pokemon oscuro que este suelto antes de que logre infectar a mas de ellos o incluso se ponga agresivo como en este caso.
 
-— Santo arceus, esto es muy grave. ¿Pero por qué me llamas a mi y no a uno de tus exploradores *mamados* para este trabajo? Solo soy un cientifico que le gusta experimentar con plantas —Confundido por la decisión de su compañero.
+— Santo Arceus, esto es muy grave. ¿Pero por qué me llamas a mi y no a uno de tus exploradores *mamados* para este trabajo? Solo soy un científico que le gusta experimentar con plantas —Confundido por la decisión de su compañero.
 
-— Porque ese pokemon es tipo planta; y ademas, tu ya tienes experiencia con pokemones oscuros. Lo que te hace un gran candidato para esta mision.
+— Porque ese pokémon es tipo planta; y además, tu ya tienes experiencia con pokemones oscuros. Lo que te hace un excelente elemento para este trabajo
 
-— ¿Mision, cual mision?
+— ¿Cómo, que estas tratando de decir?... —Temerrozo al suponer lo que quiere decir.
+
+— Que ya estas dentro [TN], tu mision sera traer ese pokémon para purificarlo de una vez por todas —Sonriendo de forma optimista.
+
+— ¡¿Que?! No estas hablando en serio, ¿verdad? ¡Moriré si voy solo a ese lugar!
+
+En ese momento, [TN] salio muy consternado y de cierta forma enfadado, no lo culpo. Nadie quiere ir alla, todos saben lo peligroso que es ese lugar. Asi que fui por la opcion mas logica.
+
+Lo persegui por un rato para convencerlo de ir, paso mucho tiempo pero al final acepto ir con una condicion: Quedarcela para estudiarla he interrogarla personalmente, no me sorprendio su condicion; los pokemones extrangeros no son muy comunes por aqui. Acepte su condicion y se fue a su laboratorio mas relajado.
+
+Esa misma noche llame a Joel para avisarle sobre la decicion de [TN], se alegro al escuchar que alguien de aqui iria para ayudar y librarse de un problema. Hablamos un poco mas pero no es importante, al final colgue y me fui a casa para descansar de este largo dia.
+
+<div align="center">. . .
+<br>. . <br>.
+<br> </div>
+Un nuevo dia llego para la region Aura, hoy seria un dia especial para nuestro amigo [TN], hoy se ira de la region para ir directo al <i>bosque de los susurros</i> en Galar. Tengo fe de que lo hará muy bien.
+
+— Si muero alla, sera tu culpa y te demandare... —Amenazo [TN] en modo de broma.
+
+— Tu tranquilo, estarás bien. Solo has lo que te enseñe y volverás sano y salvo. Confia en mi.
+
+Fuimos directo al helicóptero que estaba en el tejado del edificio, si pudiera ir con el lo haria, pero lamentablemente alguien se tiene que hacer cargo del laboratorio. Espero que no le pase nada.
+
+— ¡Nos vemos pronto [TN], buena suerte!
+
+Vi como el helicoptero se alejaba velozmente de mi. Extrañare su compañía mientras no esta. 
+
+Te deseo suerte, se paciente y no dudes en hacer lo correcto. <strong>Confio en ti</strong>.
+
+# <div align="center">[SEGUNDA PARTE]</div>
 
