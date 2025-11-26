@@ -186,3 +186,56 @@ Te deseo suerte, se paciente y no dudes en hacer lo correcto. <strong>Confio en 
 
 # <div align="center">[SEGUNDA PARTE]</div>
 
+<p align="right" >|Galar - Bosque de los susurros - Atardecer|</p>
+Cerca de la entrada del bosque, el Joven investigador se encontraba en el campamento de la region galar, lugar donde se encntraba Joel, el jefe explorador, junto al unico investigador con vida que salio del tenebroso bosque.
+
+[Tn] aun nervioso por como sera esta aventura, entra al campamento y mira su interior. No es tan diferente como en el laboratorio del profesor Cío, mismos cientificos experimentando con cualquier cosa desconocida que encuentran. Lo mas comun de ver aqui son plantas que [Tn] jamas a visto.
+
+— Disculpe, pero vengo en busca de alguien llamado Joel, ¿Sabe donde puedo encontrarlo? —Pregunta a un guardia cercano.
+
+— Nombre y identificacion...
+
+— Mi nombre es [Tn] y vengo de la region Aura de parte del profesor Cío.
+
+— Sigame, el jefe lo a estado esperando... — con un semblante mas relajado se dirije donde esta Joel.
+
+Ambos individuos se dirigen a la parte Oeste del campamento. En eso el joven Investigador ve a los alrededoes, viendo varias plantas y pokemones ciendo investigados; ninguno con sintomas de ser se Pokemones oscuros. Pensando con curiosidad y temor sobre lo que pasa en este lugar tan tetrico, llegan al punto de destino sorprendentemente rapido.
+
+Al frente de ambos chicos se encuentra Joel. Se puede escuchar como hala con una persona por telefono y con la voz demostrando algo de ira. El guardia haciendo su deber, se repota ante su superior para no faltarle el respeto.
+
+— Jefe, el investigador que mando el profesor Cío acaba de llegar — Habla fuerte y claro.
+
+Joel al darse cuenta de su presenia, se despide rapido del telefono con cierta molestia. [Tn] confundido,  da varios pasos al frente y se presenta ante Joel.
+
+— Buenas noches general Joel, espero no haberlo moletado con mi llegada —Estira la mano para presentarse— Soy [Tn] y vengo para ayudarlos con el "pequeño" problemita.
+
+Joel sonrie al ver la actitud nerviosa pero firme de muchacho. Corresponde el saludo al apretar su mano y dice.
+
+— Es un placer conocerte de forma formal [Tn]. Te e estado esperando con ancias desde que Cío me conto de tu colaboraacion con la region Galar —dirige la mirada al guardia y ordena con firmesa— ya puede retirarse a su lugar, soldado David.
+
+El soldado al escuchar su orden se despide de ambos y regresa a su puesto con prisa.
+
+La admosfera entre ambos era un tanto incomodo, ninguno dije nada por unos segundo hasta que [Tn]se aclaro la garanta y pidio a Joel contarle mas sobre el insidente dentro del bosque macabro.
+
+— Pues, realmente no tengo mucho que decir. Mi equipo y yo investigamos la zona donde nos reportaron la desaparicion de unso campistas, pero al final no encontramos nada. Al regresar una Meowscarada aparecio frente nuestra y nos ataco. Uno de nuestrosinvestigadores y yo sobrevivimos.
+
+Al escuchar su historia, [Tn] analizo cadapalabra para encontrar alguna pista o patron que le indique lo que estaba pasando. Penso por unos instantes hasta que llego a la conclucion de ir el mismo hacia ese lugar y capturar al pokemon, que el habia deducido, Oscuro.
+
+— Realmente todo esto es muy extraño pero todo lo que me contaste, y las evidencias claras, me llevanron a la conclucion de que ese pokemon debe ser capturado y purificado lo antes posible.
+
+— Bueno, tu eres el experto en eso, asi que de mi parte tienes todo mi apoyo.
+
+Ambos se dieron un apreton de manos al ya aver decidido una  estrategia en comun. El duo al ya estar de acuerdo, fueron hacia el centro del campamendo para preparar a [Tn]para que vaya y regrese sano y salvo. 
+
+En sus pensamientos, Joel queria que [Tn] fuera con algunos guardias para que lo protegieran en caso de que las cosas no salieran como lo planeado. Estaba a punto de sugerirlo pero antes de que dijera algo, ambos ya estaban en el centro del campamento y [Tn] comenso a hablar.
+
+— Muy bien, traje algunas cosas del laboriatorio del profecor Cío; creo que seran de utilidad por si algo sale mal —dijo antes de sacar los objetos y bayas que trajo en la mochila—. No quiero que alguien me acompañe; podria alertar al pokemon y es probable que ataque.
+
+Joel solo pudo sacar un —Mhhhh...— de su boca, [Tn] se adelanto a su idea y la refuto antes de escuchar,como su le hubiera leido la mente. 
+
+Mientras [Tn] se preparaba, la bocina de todas las instalaciones se activo y dijo.
+
+— Se les informa a todos los oyentes que la noche a llegado, Tengan mucho cuidado al salir...
+
+— Mmmh... ¿Estas seguro de salir ahora? Sugiero salir malana temprano para mas seguridad.
+
