@@ -1,7 +1,4 @@
----
-banner: "![[Meowscarada X TN_1.png]]"
----
-#  <div align="center" >[Prologo]</div>
+# <div align="center" >[Prologo]</div>
 <br>
 <br>
 
