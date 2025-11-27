@@ -237,5 +237,29 @@ Mientras [Tn] se preparaba, la bocina de todas las instalaciones se activo y dij
 
 — Se les informa a todos los oyentes que la noche a llegado, Tengan mucho cuidado al salir...
 
-— Mmmh... ¿Estas seguro de salir ahora? Sugiero salir malana temprano para mas seguridad.
+— Mmmh... ¿Estas seguro de salir ahora? Sugiero salir mañana temprano para mas seguridad.
 
+Joel era testigo de lo que sucedio equella noche. Ir solo y a la merced de la noche no era buena idea por lo peligroso que es ese lugar. Trato de convener a [Tn] pero al parecer no  estaba de acuerdo con su peticion; para el, solucionar el problema lo mas rapido posible era la prioridad.
+
+—  Si dejamos pasar mas tiempo, el problema se va a incrementar, y sera mas peligroso si se le ocurre salir del bosque — Aclaro con determinacion.
+
+Despues de decir eso el lugar se callo por unos instantes, se podia sentir como a Joel no le parecia buena idea pero el escuchar al argumento de [Tn] no pudo decir mas. La decicion ya estaba tomada y solo faltaba que lo llevaran hacia la salida he ir a la entrada del bosque.
+
+Frente a la incomodidad del ambiente, Joel fue hacia un escritorio para buscar en los cajones una especie de reloj, al encontrarlo, se dirijio a [Tn] y se lo dio. Dando una pequeña expliacion.
+
+<p>— Este es un <u>Reloj Rotom</u>, sirve como comunicador, camara y pokedex... Ademas de dar la hora, claro.</p>
+[Tn] se impreciono al escuchar sobre el Reloj Rotom, sabia algo sobre la evolucion de la pokedex y sus derivados regionales. Tambien escucho varias conersaciones del profesor Cío sobre un tal Rotom, de la region Alola; no sabia que era un pokemon en ese entonces.
+
+El chico se puso el reloj en la muñeca para analizarlo de forma superficial. Toco la pantalla para encender el reloj y ver como iniciava el sistema. Unos segundos de carga despues, un rotom aparecio en la pantalla y le dio la viemvenida al sistema, mostrando un breve resumen de lo que podia hacer.
+
+— wow, es imprecionante. Muchas gracias, estoy seguro de que esto me servira de mucha ayuda.
+
+Joel sonrio al escuchar su comentario, aliviando al ambiente de la anterior incomodidad.
+
+Ambos fueron hacia la salida del campamento, [Tn] con su mochila llena de suministros y objetos que le podrian ser de utilidad; y Joel con preocupacion por el joven muchacho que se estaba exponiendo ante el peligro.
+
+Ya estando en la salida, Joel quiso dejar en claro un par de cosas.
+
+— Ten mucho cuidado ahi adentro muchacho. Es posible que estes mucho tiempo ahi adentro; la niebla no ayuda y la ultima vez espante a varios pkemones de esta zona, por lo que sopongo que estaran muy adentro del bosque.
+
+— De acerdo... Estare en contacto todo el tiempo para informarles de cualquier cosa
